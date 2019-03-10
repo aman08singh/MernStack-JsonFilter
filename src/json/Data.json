@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "first": "Axel",
+        "last": "Miles",
+        "age": 24,
+        "slug":"axel"
+    },
+    {
+        "id": 2,
+        "first": "Kristian",
+        "last": "Powers",
+        "age": 26,
+        "slug":"kristian"
+    },
+    {
+        "id": 3,
+        "first": "Chase",
+        "last": "Charles",
+        "age": 35,
+        "slug":"chase"
+    }
+]
